@@ -1,4 +1,4 @@
-# picture-zoom
+## https://www.npmjs.com/package/vue-zoomer
 
 ## Project setup
 ```
