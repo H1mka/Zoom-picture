@@ -4,7 +4,7 @@
       <v-zoomer 
         style="width: 500px; height: 700px; border: 2px solid silver;" 
         :zoomingElastic="false" 
-        :aspectRatio="0.8"
+        :aspectRatio="0.7"
       >
         <img src="../assets/vendingMachine.jpg" />
       </v-zoomer>
